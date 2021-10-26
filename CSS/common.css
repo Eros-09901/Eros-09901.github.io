@@ -1,0 +1,32 @@
+@media (min-width:0px){
+    html{ 
+      overflow-y:scroll; 
+    }
+    #all{
+      width: 90%;
+      margin: 0 auto;
+    }
+    h1{
+      color:#ffffff;
+      font-size:10vmin;
+    }
+    h2{
+      color:#ffffff;
+      font-size:4vmin;
+      width: 90%;
+      margin: 0 auto;
+    }
+    a{
+      color:#ffffff;
+      font-size:6vmin;
+      display: block;
+      width: 90%;
+      margin: 0 auto;
+    }
+　  body{
+      font-family:"MS 明朝","monospace","sans-serif";
+    }
+    body{
+      background-color:#ffa1e6;
+    }
+}
